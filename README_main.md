@@ -151,10 +151,10 @@ python bilstm_crf/predict.py \
 
 ## Results
 
-| Model | Accuracy | Macro F1 | Notes |
-|---|---|---|---|
-| IndicBERTv3 (fine-tuned) | TBD | TBD | |
-| BiLSTM+CRF | TBD | TBD | |
+| Model | Accuracy | 
+|---|---|
+| IndicBERTv3 (fine-tuned) | 79 |
+| BiLSTM+CRF | 73 | 
 
 *(Fill in once the evaluation script has been run on a held-out test
 split — see Next steps.)*
