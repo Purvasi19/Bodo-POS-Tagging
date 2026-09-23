@@ -58,11 +58,9 @@ in [`data/README.md`](data/README.md).
 | Dataset preparation | ✅ Done |
 | BiLSTM+CRF training | ✅ Trained |
 | IndicBERTv3 fine-tuning | ✅ Trained |
-| Evaluation / comparison | 🚧 In progress |
+| Evaluation / comparison |  ✅ Done|
 
-Both models have been trained on the full dataset. A side-by-side
-evaluation (accuracy, per-tag F1, confusion analysis) is in progress —
-see [Results](#results) below.
+Both models have been trained on the full dataset.
 
 ## Setup
 
